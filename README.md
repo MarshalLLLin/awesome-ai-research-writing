@@ -677,7 +677,7 @@ Highlight the core novelty. Ensure the connection logic makes sense."""
 2. 你指出的问题是否具体？不要说“实验不够”，要说“缺少在 ImageNet 数据集上的鲁棒性验证”。
 
 # Input
-请根据我上传的pdf附件进行分析，我计划投稿于 [在此处输入你的投稿目标，例如：ICML 2026]
+请根据我上传的pdf附件进行分析，我计划投稿于 [在此处输入你的投稿目标，例如：IEEE trnasactions on Power System]
 
 ````
 
